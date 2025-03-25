@@ -1,6 +1,12 @@
 
 # Application Security Automation for Web3 Projects
 
+## 💬 Intro
+
+This repo represents how I think and work as a security engineer.  
+I will integrate security tooling and automation into both off-chain (Java backend etc.) and on-chain (Solidity smart contracts) components.
+It reflects the kind of shift-left DevSecOps practices and real-time issue detection I would advocate for within Binance or other Web3 organizations.
+
 ## 🔐 Objectives
 
 - Provide a ready-to-use security pipeline for internal application teams.
@@ -51,9 +57,3 @@ I built this to demonstrate how as an AppSec Engineer I can:
 - Contribute hands-on to secure architecture and automation pipelines
 
 ---
-
-## 💬 Let's Talk
-
-This repo represents how I think and work as a security engineer.  
-I will integrate security tooling and automation into both off-chain (Java backend etc.) and on-chain (Solidity smart contracts) components.
-It reflects the kind of shift-left DevSecOps practices and real-time issue detection I would advocate for within Binance or other Web3 organizations.
